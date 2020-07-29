@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1596015010 source:d:\work\ringbuffer\main.cpp
+	<iostream>
+	"RingBuffer.h"
+
+1596014903 d:\work\ringbuffer\ringbuffer.h
+	<iostream>
+
